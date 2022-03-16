@@ -4,11 +4,15 @@ using System.Text;
 
 namespace NewClass
 {
-    class NewClass22
+    class NewClass
     {
         void Main() { }
     }
     int WebPromjena(){
-        return 300;
-            }
+    return 200;}
+    
+    void greskaMetoda() {
+        
+        return 700;
+    }
 }
