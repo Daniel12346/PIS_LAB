@@ -8,4 +8,5 @@ namespace NewClass
     {
         void Main() { }
     }
+    void WebPromjena(){}
 }
