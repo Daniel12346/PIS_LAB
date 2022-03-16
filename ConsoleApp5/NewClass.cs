@@ -9,4 +9,7 @@ namespace NewClass
         void Main() { }
     }
     void WebPromjena(){}
+    
+    void greskaMetoda() {
+    }
 }
