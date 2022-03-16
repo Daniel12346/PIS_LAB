@@ -8,7 +8,8 @@ namespace NewClass
     {
         void Main() { }
     }
-    void WebPromjena(){}
+    int WebPromjena(){
+    return 200;}
     
     void greskaMetoda() {
         
