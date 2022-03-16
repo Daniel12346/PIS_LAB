@@ -11,5 +11,7 @@ namespace NewClass
     void WebPromjena(){}
     
     void greskaMetoda() {
+        
+        return 700;
     }
 }
