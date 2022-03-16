@@ -6,5 +6,6 @@ namespace NewClass
 {
     class NewClass
     {
+        void Main() { }
     }
 }
