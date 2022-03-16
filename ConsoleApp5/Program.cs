@@ -7,6 +7,7 @@ namespace ConsoleApp5
         static void Main(string[] args)
         {
             Console.WriteLine("Novo!");
+            //dodajem komentar Emil Vincic
         }
     }
 }
