@@ -7,4 +7,5 @@ namespace NewClass
     class NewClass
     {
     }
+    void WebPromjena(){}
 }
