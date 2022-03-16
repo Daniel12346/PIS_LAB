@@ -4,9 +4,11 @@ using System.Text;
 
 namespace NewClass
 {
-    class NewClass
+    class NewClass22
     {
         void Main() { }
     }
-    void WebPromjena(){}
+    int WebPromjena(){
+        return 300;
+            }
 }
